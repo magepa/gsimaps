@@ -11,6 +11,20 @@
       "cocotile": true,
       "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
       "html": ""
+    },
+    {
+      "type": "Layer",
+      "id": "std",
+      "title": "テストポイント",
+      "iconUrl": "",
+      "url": "http://http://magepa.github.io/gsimaps/example231/{z}/{x}/{y}.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
+      "html": "",
+      "maxXZoom": 18,
+      "maxNativeZoom": 2
     }
   ]
 }
