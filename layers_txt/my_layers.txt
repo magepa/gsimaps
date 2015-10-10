@@ -17,7 +17,7 @@
       "id": "std",
       "title": "テストポイント",
       "iconUrl": "",
-      "url": "http://http://magepa.github.io/gsimaps/example231/{z}/{x}/{y}.png",
+      "url": "http://http://magepa.github.io/gsimaps/example231/{z}/{x}/{y}.geojson",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
